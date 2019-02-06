@@ -8,8 +8,9 @@ There is a vide indluded in this repo that shows the app in action.
 
 #1.
 
-
+![Results Image](https://github.com/fedevillalp/bamazon/blob/master/screen 1.png)
 
 #2.
-
+![Results Image](https://github.com/fedevillalp/bamazon/blob/master/screen 2.png)
 #3.
+![Results Image](https://github.com/fedevillalp/bamazon/blob/master/screen 3.png)
