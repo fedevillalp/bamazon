@@ -7,10 +7,10 @@ The purspose of this app is to connect a node app to my SQL and perform diffrent
 There is a vide indluded in this repo that shows the app in action.
 
 #1.
-
-![Results Image](https://github.com/fedevillalp/bamazon/blob/master/screen 1.png)
+![Results Image](https://github.com/fedevillalp/bamazon/blob/master/screen1.png)
 
 #2.
-![Results Image](https://github.com/fedevillalp/bamazon/blob/master/screen 2.png)
+![Results Image](https://github.com/fedevillalp/bamazon/blob/master/screen2.png)
+
 #3.
-![Results Image](https://github.com/fedevillalp/bamazon/blob/master/screen 3.png)
+![Results Image](https://github.com/fedevillalp/bamazon/blob/master/screen3.png)
